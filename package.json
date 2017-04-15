@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/kentprimrose/PlanetTracker.git",
   "author": "Kent Primrose <krose@solsoft.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.8"
+  }
 }
