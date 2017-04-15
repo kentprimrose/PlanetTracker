@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "GetPositionIntent",
+      "slots": [
+        { "name": "Object", "type": "CELESTIAL_OBJECTS" },
+        { "name": "Date", "type": "AMAZON.DATE" },
+        { "name": "Time", "type": "AMAZON.TIME" },
+        { "name": "DOW", "type": "AMAZON.DayOfWeek" }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "PlanetTracker",
+  "version": "0.0.0",
+  "description": "Alexa skill to provide celestial coordinates",
+  "main": "index.js",
+  "repository": "https://github.com/kentprimrose/PlanetTracker.git",
+  "author": "Kent Primrose <krose@solsoft.net>",
+  "license": "MIT"
+}

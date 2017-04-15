@@ -1,0 +1,36 @@
+GetPositionIntent where's {Object}
+GetPositionIntent where's {Object} now
+GetPositionIntent where is {Object}
+GetPositionIntent where is {Object} now
+GetPositionIntent where will {Object} be at {Time}
+GetPositionIntent where will {Object} be on {Date}
+GetPositionIntent where will {Object} be this {DOW}
+GetPositionIntent where will {Object} be next {DOW}
+GetPositionIntent where will {Object} be on {Date} at {Time}
+GetPositionIntent where will {Object} be this {DOW} at {Time}
+GetPositionIntent where will {Object} be next {DOW} at {Time}
+GetPositionIntent where was {Object} at {Time}
+GetPositionIntent where was {Object} on {Date}
+GetPositionIntent where was {Object} this {DOW}
+GetPositionIntent where was {Object} last {DOW}
+GetPositionIntent where was {Object} on {Date} at {Time}
+GetPositionIntent where was {Object} this {DOW} at {Time}
+GetPositionIntent where was {Object} last {DOW} at {Time}
+GetPositionIntent where's the planet {Object}
+GetPositionIntent where's the planet {Object} now
+GetPositionIntent where is the planet {Object}
+GetPositionIntent where is the planet {Object} now
+GetPositionIntent where will the planet {Object} be at {Time}
+GetPositionIntent where will the planet {Object} be on {Date}
+GetPositionIntent where will the planet {Object} be this {DOW}
+GetPositionIntent where will the planet {Object} be next {DOW}
+GetPositionIntent where will the planet {Object} be on {Date} at {Time}
+GetPositionIntent where will the planet {Object} be this {DOW} at {Time}
+GetPositionIntent where will the planet {Object} be next {DOW} at {Time}
+GetPositionIntent where was the planet {Object} at {Time}
+GetPositionIntent where was the planet {Object} on {Date}
+GetPositionIntent where was the planet {Object} this {DOW}
+GetPositionIntent where was the planet {Object} last {DOW}
+GetPositionIntent where was the planet {Object} on {Date} at {Time}
+GetPositionIntent where was the planet {Object} this {DOW} at {Time}
+GetPositionIntent where was the planet {Object} last {DOW} at {Time}
