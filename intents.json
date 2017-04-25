@@ -6,7 +6,7 @@
         { "name": "Object", "type": "CELESTIAL_OBJECTS" },
         { "name": "Date", "type": "AMAZON.DATE" },
         { "name": "Time", "type": "AMAZON.TIME" },
-        { "name": "DOW", "type": "AMAZON.DayOfWeek" }
+        { "name": "Day", "type": "AMAZON.DayOfWeek" }
       ]
     },
     {
